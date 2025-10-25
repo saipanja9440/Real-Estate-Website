@@ -45,10 +45,11 @@ const Footer = () => {
         </div>
       </footer>
       <div className='legal'>
-        <span>© 2021 RentUP. Designd By GorkCoder.</span>
+        <span>© 2025 RentUP.All rights reserved.</span>
       </div>
     </>
   )
 }
 
 export default Footer
+
